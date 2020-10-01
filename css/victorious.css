@@ -1,0 +1,38 @@
+body{
+    background-color: rebeccapurple;
+}
+
+.topnav{
+    overflow: hidden;
+    background-color:REBECCAPURPLE;   
+}
+
+.topnav a{
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "arial black",sans-serif;
+}
+
+.topnav a:hover{
+    background-color:mediumorchid;
+    color:white;
+}
+
+
+header h1{
+    font-family:"Arial Black",sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+
+footer{
+      font-family:monospace;
+    text-align: center;
+    font-size: 20px;
+    background-color:mediumorchid; 
+    
+}
